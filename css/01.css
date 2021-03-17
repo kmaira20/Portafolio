@@ -1,0 +1,39 @@
+.color1
+{ background-color: red;
+	}
+
+.color2
+{ background-color: blue;
+	}
+
+.color3
+{ background-color: green;
+	}
+
+.color4
+{ background-color: yellow;
+	}
+
+.color5
+{ background-color: pink;
+	}
+.color6
+{ background-color: cyan;
+	}
+
+header
+{
+	margin-top: 65px
+}
+
+#carousel
+{
+	background: #f1f1f1;
+	padding: 30px 0 30px 0;
+	margin-top: 40px;
+}
+
+footer
+{
+	background: #f1f1f1;
+}
